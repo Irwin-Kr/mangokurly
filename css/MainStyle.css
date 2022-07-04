@@ -1,0 +1,10 @@
+/* 폰트 추가 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700&display=swap');
+
+html{ font-family: 'Noto Sans KR', sans-serif; font-size: 14px; }
+* { box-sizing: border-box; text-decoration: none; color:black; margin:0; padding:0; font-weight: 400;}
+strong { font-weight: 700; }
+
+.header-join-banner { display:block; height: 42px; line-height: 42px; background-color:#FFFD00; color:red; text-align: center;}
+.header-join-banner strong { color: red; }
+span.icon {font-family : xeicon; content: "\2022"; }
